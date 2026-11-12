@@ -1,0 +1,8 @@
+
+streamlit
+numpy
+opencv-python-headless
+PyWavelets
+matplotlib
+Pillow
+scikit-image
